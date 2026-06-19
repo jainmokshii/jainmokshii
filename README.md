@@ -97,19 +97,6 @@ AI model trained on 54,000+ images across 38 disease classes using ResNet50 tran
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jainmokshii&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainmokshii&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainmokshii&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
----
-
 ### 📜 Certifications
 
 - AI for Product Management – Pendo x Mind the Product (Credly Verified)
